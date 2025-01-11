@@ -41,7 +41,7 @@ COW 4기 JAVA Study 공간
       <img  src="https://avatars.githubusercontent.com/u/162001536?v=4"  width="100px;"  alt=""/>
     </td>
     <td  align="center">
-      <img  src="https://avatars.githubusercontent.com/u/193906615?v=4"  width="100px;"  alt=""/>
+      <img  src="https://avatars.githubusercontent.com/u/183571457?v=4"  width="100px;"  alt=""/>
     </td>
     <td  align="center">
       <img  src="https://avatars.githubusercontent.com/u/183572769?v=4"  width="100px;"  alt=""/>
@@ -57,7 +57,7 @@ COW 4기 JAVA Study 공간
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/umSW">
+        <a href="https://github.com/EomSeoWon">
             <div>엄서원</div>
         </a>
     </td>
