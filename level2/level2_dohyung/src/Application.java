@@ -4,9 +4,9 @@ import java.util.Scanner;
 public class Application {
     public static void askQuestion(){
         Scanner sc = new Scanner(System.in);
-        boolean run = true;
 
-        while(run){
+
+        while(true){
             try{
                 System.out.println("덧셈할 문자를 입력해주세요");
                 String inputString = sc.nextLine();
@@ -16,7 +16,7 @@ public class Application {
                 calculate(inputString);
             }catch(IllegalArgumentException e){
                 System.out.println("잘못된 값을 입력하셨습니다.");
-                run = false;
+                break;
             }/*catch (Exception e){
                 System.out.println("예기지 못하게 종료되었습니다");
                 run = false;
@@ -58,6 +58,7 @@ public class Application {
     }
 
     public static void main(String[] args) {
+
         askQuestion();
     }
 }
