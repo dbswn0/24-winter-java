@@ -182,3 +182,6 @@ public class Car {
     - [AngularJS Commit Message Conventions](https://gist.github.com/stephenparish/9941e89d80e2bc58a153) 참고해 commit log를
       남긴다.
       <br>
+
+[reference]
+우아한 테크코스
